@@ -62,8 +62,8 @@ repomix-output.*
 
 # private files
 .private/
-.env
 
 # Nix
 result
 result-*
+config.bat
